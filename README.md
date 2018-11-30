@@ -14,7 +14,7 @@ If you want to learn more about it, click [this](https://developer.mozilla.org/e
 
 ### How does it work?
 
-1. Go to this link or download/clone the repo locally.
+1. Go to [this](https://juanbedon.github.io/textToSpeech/ "spiːtʃ") link or download/clone the repo locally.
 2. Type whatever you want to hear in the textarea box
 3. Choose whether you want to change the rate or the pitch of the outcoming audio
 4. Choose a language/accent
